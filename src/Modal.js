@@ -16,7 +16,7 @@ function Example(props) {
         <Modal.Header closeButton>
           <Modal.Title>{props.selectedobj.name}</Modal.Title>
         </Modal.Header>
-        <Modal.Body>Woohoo, you're reading this text in a modal!</Modal.Body>
+        <Modal.Body>Woohoo,t in a modal!</Modal.Body>
         <Modal.Footer>
           <Button variant="secondary" onClick={handleClose}>
             Close
